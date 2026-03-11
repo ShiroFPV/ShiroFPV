@@ -14,7 +14,7 @@
 ### 🛸 About Me
 
 ```yaml
-name: ShiroFPV aka. Shiro
+Name: ShiroFPV aka. Shiro
 current_mission: building cool stuff
 interests:
   - 🚁 FPV Drones & Freestyle
@@ -38,7 +38,7 @@ fun_fact: "I speak Python, C, C++, but mostly English"
 
 #### Hardware & Design
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![AT32](https://img.shields.io/badge/AT32-0078D4?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![AT32](https://img.shields.io/badge/AT32-0078D4?style=for-the-badge&logoColor=white)
 ![Betaflight](https://img.shields.io/badge/Betaflight-FFB800?style=for-the-badge&logo=drone&logoColor=black)
 
 #### Tools
