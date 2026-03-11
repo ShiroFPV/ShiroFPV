@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shiro1930)
 <!-- [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://yourwebsite.com) -->
-[![2. Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lunafpv)
+[![2. Discord](https://img.shields.io/badge/2.Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lunafpv)
 <!-- [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://yourwebsite.com) -->
 </div>
 
