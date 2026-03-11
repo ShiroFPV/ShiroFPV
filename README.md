@@ -70,9 +70,10 @@ fun_fact: "I speak Python, C, C++, but mostly English"
 ### 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ShiroFPV/ShiroFPV/output/github-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiroFPV/ShiroFPV/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ShiroFPV/ShiroFPV/output/github-snake-dark.svg" width="100%" />
+</picture>
 </div>
 
 ---
