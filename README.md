@@ -15,14 +15,14 @@
 
 ```yaml
 Name: ShiroFPV aka. Shiro
-current_mission: building cool stuff
-interests:
+Current_mission: building cool stuff
+Interests:
   - 🚁 FPV Drones & Freestyle
   - ⚡ Electronics & PCB Design
   - 💻 Coding & Automation
   - 🎮 Gaming
-location: somewhere between a soldering iron and a code editor
-fun_fact: "I speak Python, C, C++, but mostly English"
+Location: somewhere between a soldering iron and a code editor
+Fun_fact: "I speak Python, C, C++, but mostly English"
 ```
 
 ---
