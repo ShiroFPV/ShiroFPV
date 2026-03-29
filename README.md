@@ -3,10 +3,17 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=220&section=header&text=ShiroFPV&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=drones%20•%20code%20•%20electronics&descSize=20&descAlignY=55&animation=fadeIn)
 
 ### `> building things that fly and things that dont work`
+<div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/shiro1930)
-[![Discord 2](https://img.shields.io/badge/Discord%202-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lunafpv)
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-shiro1930-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord%202-lunafpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 2">
+</a>
+
+</div>
 </div>
 
 ---
