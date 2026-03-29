@@ -4,8 +4,8 @@
 
 ### `> building things that fly and things that dont work`
 
-[![Discord]((https://discordapp.com/users/shiro1930)) [![2. Discord]((https://discordapp.com/users/lunafpv)
-<!-- [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://yourwebsite.com) -->
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/shiro1930)
+[![Discord 2](https://img.shields.io/badge/Discord%202-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lunafpv)
 
 </div>
 
