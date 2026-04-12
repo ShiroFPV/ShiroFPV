@@ -10,10 +10,10 @@
 </a>
 
 <a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord%202-lunafpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 2">
+  <img src="https://img.shields.io/badge/Discord%202-itzfemboyfpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 2">
 </a>
 <a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord%202-itzfemboyfpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 2">
+  <img src="https://img.shields.io/badge/Discord%202-lunafpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 3">
 </a>
 </div>
 </div>
