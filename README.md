@@ -1,28 +1,26 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=220&section=header&text=ShiroFPV&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=drones%20•%20code%20•%20electronics&descSize=20&descAlignY=55&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:9d4edd,100:0d0221&height=220&section=header&text=ShiroFPV&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=drones%20•%20code%20•%20electronics&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 ### `> building things that fly and things that dont work`
-<div align="center">
 
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-shiro1930-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+**ShiroFPV** · He/Him/Her
 
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord%202-itzfemboyfpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 2">
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord%203-lunafpv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 3">
-</a>
-</div>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-shiro1930-9d4edd?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:5a189a&height=3&width=100%" width="100%"/>
 
-### 🛸 About Me
+## 🛸 About Me
+
+<table width="100%">
+<tr>
+<td width="100%">
 
 ```yaml
 Name: ShiroFPV aka. Shiro
+Pronouns: He/Him/Her
 Current_mission: building cool stuff
 Interests:
   - 🚁 FPV Drones & Freestyle
@@ -33,66 +31,70 @@ Location: somewhere between a soldering iron and a code editor
 Fun_fact: "I speak Python, C, C++, but mostly English"
 ```
 
----
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5a189a,100:9d4edd&height=3&width=100%" width="100%"/>
+
+## 🛠️ Tech & Tools
 
 <div align="center">
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages & Frameworks**
 
-#### Hardware & Design
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![AT32](https://img.shields.io/badge/AT32-0078D4?style=for-the-badge&logoColor=white)
-![Betaflight](https://img.shields.io/badge/Betaflight-FFB800?style=for-the-badge&logo=drone&logoColor=black)
+<img src="https://img.shields.io/badge/Python-9d4edd?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-7b2cbf?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-5a189a?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-3c096c?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+**Hardware & Design**
+
+<img src="https://img.shields.io/badge/KiCad-9d4edd?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autodesk%20Inventor-7b2cbf?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-5a189a?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Betaflight-3c096c?style=for-the-badge&logo=drone&logoColor=white"/>
+
+**Systems & Tools**
+
+<img src="https://img.shields.io/badge/VS%20Code-9d4edd?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7b2cbf?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu%20Server-5a189a?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-3c096c?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-240046?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-9d4edd?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:5a189a&height=3&width=100%" width="100%"/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShiroFPV&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroFPV&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroFPV&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6600&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroFPV&theme=tokyonight&background=0d0221&border=9d4edd&stroke=9d4edd&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff&sideLabels=9d4edd&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5a189a,100:9d4edd&height=3&width=100%" width="100%"/>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiroFPV/ShiroFPV/output/github-snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ShiroFPV/ShiroFPV/output/github-snake-dark.svg" width="100%" />
 </picture>
-</div>
 
----
+</div>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShiroFPV&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
+<img src="https://komarev.com/ghpvc/?username=ShiroFPV&color=9d4edd&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:9d4edd,100:0d0221&height=120&section=footer" width="100%"/>
