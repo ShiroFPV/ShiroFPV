@@ -68,18 +68,6 @@ Fun_fact: "I speak Python, C, C++, but mostly English"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:5a189a&height=3&width=100%" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroFPV&theme=tokyonight&background=0d0221&border=9d4edd&stroke=9d4edd&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff&sideLabels=9d4edd&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5a189a,100:9d4edd&height=3&width=100%" width="100%"/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
